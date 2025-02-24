@@ -26,3 +26,4 @@ MF0225_3: Gestión de bases de datos (200 horas)
 
 
 🚀 Comenzamos una nueva aventura 
+Vamos a prender mucho 
