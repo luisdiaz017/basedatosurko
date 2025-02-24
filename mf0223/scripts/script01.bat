@@ -1,0 +1,1 @@
+COPY CON fichero.txt
