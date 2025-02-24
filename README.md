@@ -23,3 +23,6 @@ MF0225_3: Gestión de bases de datos (200 horas)
 ● UF1472: Lenguajes de definición y modificación de datos SQL (60 horas) 
 
 ● UF1473: Salvaguarda y seguridad de los datos (70 horas)
+
+
+🚀 Comenzamos una nueva aventura 
