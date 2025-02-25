@@ -1,0 +1,53 @@
+{"curso":"IFCD0301_202402",
+"fecha inicio" : "2025-01-21",
+"fecha fin" : "2025-06-25",
+"denominación" : "Administración de Base de datos",
+"url_drive" : "https://docs.google.com/presentation/d/1Bv8exKqAShHthNHgcz0GTCq0cfH4gd8pt5-RcSocr1g/edit?usp=sharing",
+"Localizacion" : "URKO - Egia-Donosti",
+"url_LMS" : "https://classroom.google.com/c/NzQ1Mzc2MDgyNjU0?cjc=3x5p6ld",
+
+"tutor":
+    {"Nombre":"Alberto Mozo",
+        "email" : "albertomozodocente@gmail.com",
+        "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+        "github" : "https://github.com/albertomozo"
+       
+    
+    },
+"alumnos" : [
+        {
+            
+            "Nombre":"Alberto",
+            "email" :"albertomozodocente@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+            "github" : "albertomozo",
+            "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
+            "imagen" : "",
+            "descripcion" : "es un proyecto",
+            "inicio" : {    
+                    "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0
+            },
+            "fin" : {    
+                "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0              
+            }
+        }
+    
+        
+   
+    ]
+}
+
