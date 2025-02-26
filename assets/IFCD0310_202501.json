@@ -24,22 +24,22 @@
             "inicio" : {
                     "Sistemas Operativos":1,
                     "Base de datos" : 0,
-                "SQL" : 0,
-                "Github" : 0,
-                "Programacion" : 0,
-                "XML" : 0,
-                "PowerBI" : 0,
-                "Cloud" : 0
+                    "SQL" : 0,
+                    "Github" : 0,
+                    "Programacion" : 0,
+                    "XML" : 0,
+                    "PowerBI" : 0,
+                    "Cloud" : 0
             },
             "fin" : {    
-                "Sistemas Operativos":0,
+                    "Sistemas Operativos":0,
                     "Base de datos" : 0,
-                "SQL" : 0,
-                "Github" : 1,
-                "Programacion" : 0,
-                "XML" : 0,
-                "PowerBI" : 0,
-                "Cloud" : 0
+                    "SQL" : 0,
+                    "Github" : 1,
+                    "Programacion" : 0,
+                    "XML" : 0,
+                    "PowerBI" : 0,
+                    "Cloud" : 0
             }
         },
         {
@@ -53,22 +53,22 @@
             "inicio" : {
                     "Sistemas Operativos":0,
                     "Base de datos" : 0,
-                "SQL" : 0,
-                "Github" : 0,
-                "Programacion" : 0,
-                "XML" : 0,
-                "PowerBI" : 0,
-                "Cloud" : 0
+                    "SQL" : 0,
+                    "Github" : 0,
+                    "Programacion" : 0,
+                    "XML" : 0,
+                    "PowerBI" : 0,
+                    "Cloud" : 0
             },
             "fin" : {
-                "Sistemas Operativos":0,
+                    "Sistemas Operativos":0,
                     "Base de datos" : 0,
-                "SQL" : 0,
-                "Github" : 0,
-                "Programacion" : 0,
-                "XML" : 0,
-                "PowerBI" : 0,
-                "Cloud" : 0
+                    "SQL" : 0,
+                    "Github" : 0,
+                    "Programacion" : 0,
+                    "XML" : 0,
+                    "PowerBI" : 0,
+                    "Cloud" : 0
             }
         },
         {
@@ -91,14 +91,14 @@
                 "Cloud" : 0
             },
             "fin" : {    
-                "Sistemas Operativos":4,
+                    "Sistemas Operativos":4,
                     "Base de datos" : 5,
-                "SQL" : 5,
-                "Github" : 4,
-                "Programacion" : 4,
-                "XML" : 3,
-                "PowerBI" : 2,
-                "Cloud" : 4              
+                    "SQL" : 5,
+                    "Github" : 4,
+                    "Programacion" : 4,
+                    "XML" : 3,
+                    "PowerBI" : 2,
+                    "Cloud" : 4              
             }
         }
     ]
