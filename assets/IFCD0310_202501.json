@@ -11,12 +11,9 @@
         "email" : "albertomozodedev@gmail.com",
         "linked" : "",
         "github" : "https://github.com/albertomozo"
-       
-    
     },
 "alumnos" : [
         {
-            
             "Nombre":"Alberto",
             "email" :"albertomozodocente@gmail.com",    
             "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
@@ -24,8 +21,8 @@
             "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
             "imagen" : "",
             "descripcion" : "es un proyecto",
-            "inicio" : {    
-                    "Sistemas Operativos":0,
+            "inicio" : {
+                    "Sistemas Operativos":1,
                     "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 0,
@@ -38,15 +35,14 @@
                 "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
-                "Github" : 0,
+                "Github" : 1,
                 "Programacion" : 0,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0              
+                "Cloud" : 0
             }
         },
         {
-            
             "Nombre":"Alberto dev",
             "email" :"albertomozodesarrollador@gmail.com",    
             "linked" : "",
@@ -54,7 +50,7 @@
             "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
-            "inicio" : {    
+            "inicio" : {
                     "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
@@ -64,7 +60,7 @@
                 "PowerBI" : 0,
                 "Cloud" : 0
             },
-            "fin" : {    
+            "fin" : {
                 "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
@@ -72,12 +68,9 @@
                 "Programacion" : 0,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0              
+                "Cloud" : 0
             }
         }
-    
-        
-   
     ]
 }
 {
