@@ -14,11 +14,12 @@
     },
 "alumnos" : [
         {
-            "Nombre":"luis",
-            "email" :"luis123@gmail.com",    
-            "linked" : "https://www.linkedin.com/in/luisitoenespañita",
-            "github" : "luisdiaz017",
-            "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
+
+            "Nombre":"Stuar",
+            "email" :"stuarestudiante@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/stuar-estudiante-781b1a347/",
+            "github" : "stuarvalencia",
+            "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {
@@ -43,22 +44,25 @@
             }
         },
         {
+            
             "Nombre":"Alberto dev",
             "email" :"albertomozodesarrollador@gmail.com",    
             "linked" : "",
-            "github" : "albertomozodev",
-            "url" :"",
+            "github" : "BiaBib1",
+            "url" :"http://biabibi.wuaze.com/2025/02/21/organization-project/",
             "imagen" : "",
             "descripcion" : "es un proyecto",
-            "inicio" : {
+            "inicio" : {    
                     "Sistemas Operativos":0,
                     "Base de datos" : 0,
-                    "SQL" : 0,
-                    "Github" : 0,
-                    "Programacion" : 0,
-                    "XML" : 0,
-                    "PowerBI" : 0,
-                    "Cloud" : 0
+
+                "SQL" : 0,
+                "Github" : 2,
+                "Programacion" : 3,
+                "XML" : 2,
+                "PowerBI" : 0,
+                "Cloud" : 1
+
             },
             "fin" : {
                     "Sistemas Operativos":0,
@@ -100,7 +104,70 @@
                     "PowerBI" : 2,
                     "Cloud" : 4              
             }
+        },
+        {            
+            "Nombre":"Erik",
+            "email" :"erik96f@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/erik-f%C3%BChrer-gutierrez-946b73190/",
+            "github" : "ErikFuhrer",
+            "url" :"",
+            "imagen" : "",
+            "descripcion" : "es un proyecto",
+            "inicio" : {    
+                "Sistemas Operativos":1,
+                "Base de datos" : 2,
+                "SQL" : 3,
+                "Github" : 0,
+                "Programacion" : 3,
+                "XML" : 1,
+                "PowerBI" : 0,
+                "Cloud" : 0
+            },
+            "fin" : {    
+                "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0              
+            }
         }
     ]
+},
+{
+            
+            "Nombre":"Fanny",
+            "email" :"fgirond14@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/fanny-giron-49b03834a/",
+            "github" : "fannyby",
+            "url" :"",
+            "imagen" : "",
+            "descripcion" : "es un proyecto",
+            "inicio" : {    
+                    "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0
+            },
+            "fin" : {    
+                "Sistemas Operativos":0,
+                    "Base de datos" : 0,
+                "SQL" : 0,
+                "Github" : 0,
+                "Programacion" : 0,
+                "XML" : 0,
+                "PowerBI" : 0,
+                "Cloud" : 0              
+            }
+        }
+    
+        
+   
+    ]
 }
-
