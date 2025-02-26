@@ -25,7 +25,7 @@
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {    
-                    "Sistemas Operativos":0,
+                    "Sistemas Operativos":1,
                     "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 0,
@@ -38,7 +38,7 @@
                 "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
-                "Github" : 0,
+                "Github" : 1,
                 "Programacion" : 0,
                 "XML" : 0,
                 "PowerBI" : 0,
