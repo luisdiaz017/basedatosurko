@@ -14,11 +14,11 @@
     },
 "alumnos" : [
         {
-            "Nombre":"Alberto",
-            "email" :"albertomozodocente@gmail.com",    
-            "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
-            "github" : "albertomozo",
-            "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
+            "Nombre":"Stuar",
+            "email" :"stuarestudiante@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/stuar-estudiante-781b1a347/",
+            "github" : "stuarvalencia",
+            "url" :"",
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {
