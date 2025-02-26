@@ -14,10 +14,10 @@
     },
 "alumnos" : [
         {
-            "Nombre":"Alberto",
-            "email" :"albertomozodocente@gmail.com",    
-            "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
-            "github" : "albertomozo",
+            "Nombre":"luis",
+            "email" :"luis123@gmail.com",    
+            "linked" : "https://www.linkedin.com/in/luisitoenespañita",
+            "github" : "luisdiaz017",
             "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
             "imagen" : "",
             "descripcion" : "es un proyecto",
