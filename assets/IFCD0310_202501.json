@@ -43,22 +43,25 @@
             }
         },
         {
+            
             "Nombre":"Alberto dev",
             "email" :"albertomozodesarrollador@gmail.com",    
             "linked" : "",
-            "github" : "albertomozodev",
-            "url" :"",
+            "github" : "BiaBib1",
+            "url" :"http://biabibi.wuaze.com/2025/02/21/organization-project/",
             "imagen" : "",
             "descripcion" : "es un proyecto",
-            "inicio" : {
+            "inicio" : {    
                     "Sistemas Operativos":0,
                     "Base de datos" : 0,
-                    "SQL" : 0,
-                    "Github" : 0,
-                    "Programacion" : 0,
-                    "XML" : 0,
-                    "PowerBI" : 0,
-                    "Cloud" : 0
+
+                "SQL" : 0,
+                "Github" : 2,
+                "Programacion" : 3,
+                "XML" : 2,
+                "PowerBI" : 0,
+                "Cloud" : 1
+
             },
             "fin" : {
                     "Sistemas Operativos":0,
