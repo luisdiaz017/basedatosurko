@@ -11,12 +11,9 @@
         "email" : "albertomozodedev@gmail.com",
         "linked" : "",
         "github" : "https://github.com/albertomozo"
-       
-    
     },
 "alumnos" : [
         {
-            
             "Nombre":"Alberto",
             "email" :"albertomozodocente@gmail.com",    
             "linked" : "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
@@ -24,8 +21,8 @@
             "url" :"https://albertomozo.infinityfreeapp.com/?i=1",
             "imagen" : "",
             "descripcion" : "es un proyecto",
-            "inicio" : {    
-                    "Sistemas Operativos":0,
+            "inicio" : {
+                    "Sistemas Operativos":1,
                     "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 0,
@@ -38,25 +35,25 @@
                 "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
-                "Github" : 0,
+                "Github" : 1,
                 "Programacion" : 0,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0              
+                "Cloud" : 0
             }
         },
         {
             
-            "Nombre":"Bianca",
-            "email" :"biabibi.urko@gmail.com",    
+            "Nombre":"Alberto dev",
+            "email" :"albertomozodesarrollador@gmail.com",    
             "linked" : "",
             "github" : "BiaBib1",
             "url" :"http://biabibi.wuaze.com/2025/02/21/organization-project/",
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {    
-                    "Sistemas Operativos": 3,
-                    "Base de datos" : 2,
+                    "Sistemas Operativos":0,
+                    "Base de datos" : 0,
                 "SQL" : 0,
                 "Github" : 2,
                 "Programacion" : 3,
@@ -64,7 +61,7 @@
                 "PowerBI" : 0,
                 "Cloud" : 1
             },
-            "fin" : {    
+            "fin" : {
                 "Sistemas Operativos":0,
                     "Base de datos" : 0,
                 "SQL" : 0,
@@ -72,12 +69,9 @@
                 "Programacion" : 0,
                 "XML" : 0,
                 "PowerBI" : 0,
-                "Cloud" : 0              
+                "Cloud" : 0
             }
         }
-    
-        
-   
     ]
 }
 
